@@ -23,8 +23,10 @@ Welcome to **Yummy App**! Dive into a world filled with flavors, aromas, and pal
 ## Tech Stack 🔧
 
 - **API**: [TheMealDB](https://www.themealdb.com/api.php)
-- **Frontend**:HTML5, CSS3, Bootstrap & jQuery.
-- **Animations**: Interactive UX thanks to CSS & JS animations.
+- **Frontend**: HTML5, CSS3, Bootstrap & jQuery.
+- **Animations**: Utilized CSS & JS to create interactive animations for enhanced user experience.
+- **Responsive Design**: Media Query, Bootstrap.
+- **UI & Design Tools**: FontAwesome.
 
 ## Important Notes 📌
 
